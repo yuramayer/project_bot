@@ -1,2 +1,2 @@
-# project_bot
-TG bot for uni project
+# Hackaton Bot
+TG bot for the university
